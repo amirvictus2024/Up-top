@@ -1,0 +1,6 @@
+name = "instagram-download-bot"
+type = "javascript"
+main = "index.js"
+
+account_id = "7240662021"
+workers_dev = true
